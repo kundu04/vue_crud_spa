@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "a",
+      "email": "a",
+      "password": "a",
+      "id": 1
+    },
+    {
+      "name": "moni",
+      "email": "m",
+      "password": "m",
+      "id": 2
+    },
+    {
+      "name": "boby",
+      "email": "b@mail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "z",
+      "email": "z",
+      "password": "z",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "title": "title1up",
+      "description": "description1",
+      "price": "1234",
+      "id": 1
+    },
+    {
+      "title": "title2",
+      "description": "description2",
+      "price": "1234",
+      "id": 2
+    },
+    {
+      "title": "title3",
+      "description": "description3",
+      "price": "12345",
+      "id": 3
+    }
+  ]
+}
